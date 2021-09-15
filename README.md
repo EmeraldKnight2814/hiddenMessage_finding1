@@ -1,2 +1,6 @@
 # hiddenMessage_finding1
-I decided to play around with what sort of things I could do with hidden messages in lossy type formatted files
+For those of you that don't know, it is possible to hide text within image files without using a program like Photoshop or something to literally hide it. The text will remain hidden until viewed upon in a program such as WinHex
+
+I noticed when doing this though that all the messages I had seen were done in English. I decided that I wanted to see what would happen if I put a message in another language, preferably one that does not use the roman alphabet that English, French, Spanish and so on use.
+
+Attached in this repo is an image that contains one such message. I wish you the best of luck in finding and decyphering the message (which may not be grammatically correct in it's language, I am still very much a beginner in my study of that language)
